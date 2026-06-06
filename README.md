@@ -86,7 +86,7 @@ streamlit run app.py
 - **EDA Insights** — key findings from 49,378 historical matches
 
 ## Author
-**Abhirup Gumtya** | B.Tech CSE (AI & ML) | Brainware University
+**Abhirup Gumtya** | B.Tech CSE (AI & ML) 
 - GitHub: https://github.com/Abhirup2728
 - LinkedIn: https://linkedin.com/in/abhirupgumtya
 - Portfolio: https://abhirup-gumtya-portfolio.netlify.app
