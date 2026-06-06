@@ -143,7 +143,7 @@ with st.sidebar:
     st.metric("Win Probability", f"{float(champion_row['win_title_%']):.2f}%")
     st.markdown("---")
     st.markdown("Built by **Abhirup Gumtya**")
-    st.markdown("B.Tech CSE AI & ML | Brainware University")
+    st.markdown("B.Tech CSE (AI & ML)")
 
 st.markdown('<div class="main-header">⚽ FIFA World Cup 2026 — AI Prediction Platform</div>', unsafe_allow_html=True)
 st.markdown("<p style='text-align:center;color:#666;font-size:1.05rem;'>ML predictions using 49,378 historical matches & 10,000 Monte Carlo simulations</p>", unsafe_allow_html=True)
