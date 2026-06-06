@@ -372,4 +372,4 @@ with tab5:
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
-st.markdown("<p style='text-align:center;color:#888;font-size:0.85rem'>Built by <b>Abhirup Gumtya</b> | B.Tech CSE AI & ML | Brainware University | Scikit-learn · Plotly · Streamlit</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;color:#888;font-size:0.85rem'>Built by <b>Abhirup Gumtya</b> | B.Tech CSE AI & ML |   University | Scikit-learn · Plotly · Streamlit</p>", unsafe_allow_html=True)
