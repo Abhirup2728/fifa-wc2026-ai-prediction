@@ -171,7 +171,7 @@ with st.sidebar:
     st.metric("Win Probability", f"{champion['win_title_%']:.2f}%")
     st.markdown("---")
     st.markdown("Built by **Abhirup Gumtya**")
-    st.markdown("B.Tech CSE (AI & ML) | Brainware University")
+    st.markdown("B.Tech CSE (AI & ML)")
 
 # ════════════════════════════════════════════════════════════
 # MAIN TABS
