@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Large files
+*.keras
+*.h5
+data/raw/goalscorers.csv
+data/raw/shootouts.csv
+
+# OS
+.DS_Store
+Thumbs.db
