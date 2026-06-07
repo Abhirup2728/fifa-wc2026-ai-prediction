@@ -8,7 +8,7 @@
 > **Predicted WC2026 Champion: Spain (16.77%)**
 
 ## Live Demo
-[[Click Here](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fifa-wc2026-predictor.streamlit.app/)
+[![Click Here](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fifa-wc2026-predictor.streamlit.app/)
 
 ---
 
